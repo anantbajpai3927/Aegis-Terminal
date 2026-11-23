@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Terminal",
+  "description": "Zero-hallucination tri-agent verification terminal with synchronized reasoning audit, persistent document/URL grounding, and full-duplex live voice.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
