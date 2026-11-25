@@ -1,5 +1,7 @@
 # Aegis Terminal: Tri-Agent Anti-Hallucination LLM Architecture
 
+> **Research Paper Report:** The complete research paper report for this project is available in [`aegis_paper.pdf`](./aegis_paper.pdf) in this same GitHub repository.
+
 Aegis Terminal is a full-stack verification system implementing a novel **Synchronized Tri-Agent Anti-Hallucination LLM Architecture** over two unified interaction modalities: structured text chat (`POST /api/chat/verify`) and full-duplex live voice conversations (`WS /ws/live`).
 
 Every symbol, equation, constant, state transition, and verification test cited in this document corresponds directly to the codebase in this repository. No fabricated statistics, extrapolated accuracy percentages, or unmeasured benchmark figures are included.
